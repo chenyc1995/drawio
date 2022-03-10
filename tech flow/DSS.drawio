@@ -1,1 +1,300 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T19:01:05.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.1" etag="xiAEVSTWp3YO0tWus-Y8" type="github"><diagram id="czoDvNGMsrOtbpfqUfRm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T19:48:30.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="teO6nODc6FARdv2e9pKu" version="17.1.1" type="github">
+  <diagram id="czoDvNGMsrOtbpfqUfRm" name="Page-1">
+    <mxGraphModel dx="2471" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-1" value="预实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-4" value="材料合成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-7" value="细胞实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-19" value="模型建立" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="190" y="415" width="200" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-20" value="含2% 3% 4% DSS饮用水喂养7天" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-19">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-21" value="记录体重及症状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-19">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-22" value="处死测量结肠长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-19">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-25" value="结肠HE染色及评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-19">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-26" value="得出合适建模剂量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-19">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-27" value="给药方式及剂量" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="400" y="415" width="430" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-28" value="4 mg" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="230" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-29" value="腹腔注射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="30" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-30" value="灌胃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="110" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-35" value="16 mg" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="350" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-34" value="8 mg" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="290" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-36" target="PeHnrjvGRDgDpMHeO9pG-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-36" value="将饮用水替换为含造模剂量DSS饮用水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="155" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-38" value="1-6天以下列方式给药" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="155" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;size=0.5;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="205" y="-15" width="20" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-41" value="4 mg i.p." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="25" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-46" value="16 mg i.g." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="345" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-45" value="8 mg i.g." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="281" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-44" value="4 mg i.g." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="217" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-43" value="16 mg i.p." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="153" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-42" value="8 mg i.p." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="89" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="270" as="sourcePoint" />
+            <mxPoint x="60" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-43" target="PeHnrjvGRDgDpMHeO9pG-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129" y="270" as="sourcePoint" />
+            <mxPoint x="70" y="229.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-44" target="PeHnrjvGRDgDpMHeO9pG-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="193" y="270" as="sourcePoint" />
+            <mxPoint x="60" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-45" target="PeHnrjvGRDgDpMHeO9pG-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256.9999999999998" y="270" as="sourcePoint" />
+            <mxPoint x="150" y="229.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-46" target="PeHnrjvGRDgDpMHeO9pG-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="270" as="sourcePoint" />
+            <mxPoint x="150" y="229.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-41" target="PeHnrjvGRDgDpMHeO9pG-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="270" as="sourcePoint" />
+            <mxPoint x="150" y="229.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-42" target="PeHnrjvGRDgDpMHeO9pG-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="270" as="sourcePoint" />
+            <mxPoint x="265" y="239.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-43" target="PeHnrjvGRDgDpMHeO9pG-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="260" as="sourcePoint" />
+            <mxPoint x="325" y="239.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-58" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-46" target="PeHnrjvGRDgDpMHeO9pG-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="193" y="270" as="sourcePoint" />
+            <mxPoint x="385" y="239.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-45" target="PeHnrjvGRDgDpMHeO9pG-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="270" as="sourcePoint" />
+            <mxPoint x="385" y="239.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-44" target="PeHnrjvGRDgDpMHeO9pG-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="270" as="sourcePoint" />
+            <mxPoint x="325" y="239.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-61" value="记录体重及症状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="155" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-62" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="205" y="150" width="20" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-63" value="处死测量结肠长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="155" y="433" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-61" target="PeHnrjvGRDgDpMHeO9pG-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-64" value="结肠HE染色及评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="155" y="512" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-63" target="PeHnrjvGRDgDpMHeO9pG-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-65" value="得出合适治疗剂量及方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-27">
+          <mxGeometry x="155" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-64" target="PeHnrjvGRDgDpMHeO9pG-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-27" source="PeHnrjvGRDgDpMHeO9pG-42" target="PeHnrjvGRDgDpMHeO9pG-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="270" as="sourcePoint" />
+            <mxPoint x="90" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PeHnrjvGRDgDpMHeO9pG-26" target="PeHnrjvGRDgDpMHeO9pG-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="525" as="sourcePoint" />
+            <mxPoint x="450" y="475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="805" />
+              <mxPoint x="410" y="475" />
+              <mxPoint x="510" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="400" as="sourcePoint" />
+            <mxPoint x="845" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-72" value="材料合成及表征" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="190" y="10" width="640" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-73" value="一锅法制备材料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="30" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-76" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="160" y="30" width="20" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-72" source="PeHnrjvGRDgDpMHeO9pG-78" target="PeHnrjvGRDgDpMHeO9pG-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-78" value="TEM电镜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="190" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-72" source="PeHnrjvGRDgDpMHeO9pG-79" target="PeHnrjvGRDgDpMHeO9pG-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-79" value="动态光散射水合粒径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="190" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-81" value="ImageJ 粒径统计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="390" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-83" value="粒径统计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="390" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-85" value="Zeta电位测量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="190" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-72" source="PeHnrjvGRDgDpMHeO9pG-86" target="PeHnrjvGRDgDpMHeO9pG-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-86" value="ROS清除能力（三种代表性ROS）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-94" value="计算清除能力" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-72">
+          <mxGeometry x="390" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-96" value="毒性实验" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1120" width="640" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-96" source="PeHnrjvGRDgDpMHeO9pG-97" target="PeHnrjvGRDgDpMHeO9pG-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-97" value="与不同浓度POM共孵育24、48 h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-96">
+          <mxGeometry x="147" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-96" source="PeHnrjvGRDgDpMHeO9pG-98" target="PeHnrjvGRDgDpMHeO9pG-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-98" value="与CCK-8共孵育1 h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-96">
+          <mxGeometry x="275" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-96" source="PeHnrjvGRDgDpMHeO9pG-99" target="PeHnrjvGRDgDpMHeO9pG-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-99" value="测量450 nm吸光值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-96">
+          <mxGeometry x="402" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-100" value="计算存活率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-96">
+          <mxGeometry x="530" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-96" source="PeHnrjvGRDgDpMHeO9pG-101" target="PeHnrjvGRDgDpMHeO9pG-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-101" value="准备Caco2 HCT116 RAW264.7 细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-96">
+          <mxGeometry x="19" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-110" value="挽救实验" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1330" width="640" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-110" source="PeHnrjvGRDgDpMHeO9pG-112" target="PeHnrjvGRDgDpMHeO9pG-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-112" value="与不同浓度POM过氧化氢共孵育24、48 h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-110">
+          <mxGeometry x="147" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-110" source="PeHnrjvGRDgDpMHeO9pG-114" target="PeHnrjvGRDgDpMHeO9pG-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-114" value="与CCK-8共孵育1 h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-110">
+          <mxGeometry x="275" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-110" source="PeHnrjvGRDgDpMHeO9pG-116" target="PeHnrjvGRDgDpMHeO9pG-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-116" value="测量450 nm吸光值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-110">
+          <mxGeometry x="402" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-117" value="计算存活率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-110">
+          <mxGeometry x="530" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-110" source="PeHnrjvGRDgDpMHeO9pG-119" target="PeHnrjvGRDgDpMHeO9pG-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-119" value="准备Caco2 HCT116 RAW264.7 细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-110">
+          <mxGeometry x="19" y="75" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-120" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
