@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T19:48:30.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="teO6nODc6FARdv2e9pKu" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T19:52:24.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="gujlUoYYOmdpHbW7p-HS" version="17.1.1" type="github">
   <diagram id="czoDvNGMsrOtbpfqUfRm" name="Page-1">
-    <mxGraphModel dx="2471" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,7 +292,37 @@
           <mxGeometry x="19" y="75" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PeHnrjvGRDgDpMHeO9pG-120" value="动物实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-121" value="模型建立" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1550" width="640" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-123" value="记录体重和体征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-121">
+          <mxGeometry x="138" y="80" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-125" value="测量结肠长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-121">
+          <mxGeometry x="266" y="80" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-121" source="PeHnrjvGRDgDpMHeO9pG-123" target="PeHnrjvGRDgDpMHeO9pG-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PeHnrjvGRDgDpMHeO9pG-121" source="PeHnrjvGRDgDpMHeO9pG-130" target="PeHnrjvGRDgDpMHeO9pG-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-130" value="使用预实验中的条件处理小鼠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-121">
+          <mxGeometry x="10" y="80" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-131" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-121">
+          <mxGeometry x="368" y="60" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-132" value="HE评价损伤情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-121">
+          <mxGeometry x="418" y="30" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-133" value="IHC评价炎症情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PeHnrjvGRDgDpMHeO9pG-121">
+          <mxGeometry x="418" y="130" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PeHnrjvGRDgDpMHeO9pG-134" value="分子生物学实验" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1780" width="640" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
